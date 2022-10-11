@@ -14,3 +14,7 @@ select,
 textarea{
     @apply rounded border p-2 outline-none ring-indigo-300 focus:ring
 }
+
+.dropdoen-link{
+    @apply flex p-2 hover:bg-gray-200
+}

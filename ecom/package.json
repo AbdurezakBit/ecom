@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^0.0.0-insiders.83a5f45",
     "bcryptjs": "^2.4.3",
     "js-cookie": "^3.0.1",
     "mongoos": "^0.0.1-security",
